@@ -1,0 +1,1 @@
+Programs for storing membership data, entering contributions, pairing funds with account numbers, writing checks, doing payroll and reporting financial data. Written in Free Pascal, Lazarus and uses the Firebird database and LHelp.
